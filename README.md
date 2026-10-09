@@ -4,8 +4,8 @@
 **Open Multimodal AGI Research**
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-TODO-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/V-Insight-AI)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-TODO-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/V-Insight)
+[![GitHub](https://img.shields.io/badge/GitHub-V--Insight--AI-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/V-Insight-AI)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-V--Insight-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/V-Insight)
 
 *Advancing the next generation of visual intelligence across images, videos, and 3D worlds.*
 
@@ -15,9 +15,9 @@
 
 ## 🌐 About Us
 
-At **V-Insight AI Lab**, we focus on multimodal intelligence that connects visual perception with language reasoning. Our work explores how vision-language models can ground open-ended concepts, reason over complex visual scenes, and understand dynamic video content.
+At **V-Insight AI Lab**, we study multimodal visual intelligence for images, videos, and 3D scenes. Our work centers on building models and evaluations that make visual understanding more precise, reasoning-aware, and grounded in real visual evidence.
 
-Our research spans **free-form multimodal grounding**, **perception-reasoning benchmarks**, **3D spatial understanding**, and **VideoLLM training and evaluation**. We aim to build practical models, datasets, and evaluation tools that make multimodal systems more interpretable, reliable, and useful in real-world scenarios.
+We are driven by a simple question: how can multimodal models move beyond recognizing what is visible, and toward understanding where things are, how they relate, and why they matter?
 
 ---
 
@@ -49,6 +49,5 @@ Our research spans **free-form multimodal grounding**, **perception-reasoning be
 ---
 
 <div align="center">
-  <i>Advancing multimodal visual intelligence across perception, reasoning, space, and time.</i><br><br>
-  <b><a href="TODO">Explore our projects and collaborate with us.</a></b>
+  <i>Advancing multimodal visual intelligence for precise perception and reasoning in spatial-temporal worlds.</i>
 </div>
